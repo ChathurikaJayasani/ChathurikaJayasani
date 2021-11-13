@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChathurikaJayasani
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m an undergraduate of Faculty of Engineering, University of Peradeniya.
+- 🌱 I’m a fresh graduate from the Faculty of Engineering, University of Peradeniya.
 - 📫 How to reach me chathurikajayasani@gmail.com
 
 <!---
